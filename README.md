@@ -1,6 +1,6 @@
 # miles
 
-miles is a Python homebrew webcrawler originally designed as a project for my [Systems Programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp24/) course. It was the first program I designed which had an actually diverse amount of considerations, from web access and download to file management and even concurrency. Extensively reading Python libraries such as `concurrent`, `urlib`, `requests`, `re`, among others, opened my eyes to the true power of Python.
+miles is a Python homebrewed webcrawler originally designed as a project for my [Systems Programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp24/) course. It was the first program I designed which had an actually diverse amount of considerations, from web access and download to file management and even concurrency. Extensively reading Python libraries such as `concurrent`, `urlib`, `requests`, `re`, among others, opened my eyes to the true power of Python.
 
 The name, naturally, alludes to quite a famous crawler.
 
